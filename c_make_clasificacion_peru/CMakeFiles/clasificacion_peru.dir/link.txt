@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/clasificacion_peru.dir/probabilidad_peru.cpp.o  -o clasificacion_peru 
